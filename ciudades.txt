@@ -2,3 +2,6 @@ barcelona
 cali
 venecia
 paris
+colombia
+italia
+mexico

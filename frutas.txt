@@ -3,3 +3,6 @@ fresa
 cereza
 naranja
 fresa
+mango
+melocoton
+sandia
