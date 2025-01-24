@@ -1,3 +1,5 @@
 manzana
 fresa
 cereza
+naranja
+fresa
