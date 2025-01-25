@@ -1,6 +1,6 @@
 cereza
-naranja
 fresa
 mango
 melocoton
+naranja
 sandia

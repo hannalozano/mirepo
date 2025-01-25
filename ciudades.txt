@@ -1,6 +1,6 @@
 cali
-venecia
-paris
 colombia
 italia
 mexico
+paris
+venecia
